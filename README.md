@@ -28,7 +28,8 @@ Retaining customers is far more cost-effective than acquiring new ones. Predicti
   - XGBoost
   - Cross-validated performance using accuracy, precision, recall, and ROC-AUC
 ### Deployment
-  - Built and will be deploying a Streamlit app to allow Vodafone staff to input customer data and get instant churn predictions.
+  - Built (and will deploy) a Streamlit app for Vodafone staff to input customer data and get real-time churn predictions.
+
 ## Key Findings
  - Contract type, tenure, and monthly charges were among the top churn predictors.
  - Customers with month-to-month contracts and high charges were significantly more likely to churn.
