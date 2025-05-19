@@ -23,9 +23,20 @@ Retaining existing customers is far more cost-effective than acquiring new ones.
   - Handled class imbalance
   - Scaled features for modeling
 ### Modeling Techniques Used:
+To predict customer churn, I trained and evaluated multiple classification models using cross-validation and four performance metrics: Accuracy, Precision, Recall, and F1-Score.  I plotted the ROC Curve to compare model performance on True Positive Rate vs. False Positive Rate.
   - Logistic Regression
+     - Achieved the highest precision (0.820):  minimizing false positives
+     - Balanced performance with an F1 score of 0.768
   - Random Forest
-  - XGBoost
+     - Delivered the best overall performance with accuracy (0.783), recall (0.783), and F1 score (0.786)
+     - The most reliable model for identifying churners effectively
+  - K-Nearest Neighbors (KNN)
+     - Reasonable performance, but slightly lower generalization compared to ensemble methods
+     - F1 score: 0.734
+  - Decision Tree
+     - Simpler model with decent accuracy (0.726), but less robust than Random Forest
+  - Gaussian Naive Bayes
+     - Fast but least accurate overall; useful baseline model
   - Cross-validated performance using accuracy, precision, recall, and ROC-AUC
 ### Deployment
   - Built (and will deploy) a Streamlit app for Vodafone staff to input customer data and get real-time churn predictions.
