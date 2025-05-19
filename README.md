@@ -7,13 +7,13 @@
 
 ### What problem did I solve?:
 
-Telecom companies like Vodafone face significant losses from customer churn, when customers leave for competitors. Each lost customer reduces lifetime value, increases acquisition costs, and hurts brand loyalty.
+Telecom companies like Vodafone lose significant revenue due to customer churn, when customers leave for competitors. Each lost customer decreases lifetime value, raises acquisition costs, and weakens brand loyalty.
 
 ### Why does it matter?:
-Retaining customers is far more cost-effective than acquiring new ones. Predicting churn early allows the business to take targeted actions (e.g., retention campaigns, personalized offers) and significantly reduce churn-related revenue loss.
+Retaining existing customers is far more cost-effective than acquiring new ones. Early churn prediction allows the business to take proactive actions (e.g., retention campaigns, personalized offers) to reduce revenue loss and improve satisfaction.
 
 ## Project Goal:
-**Build a machine learning model that predicts whether a customer is likely to churn** allowing Vodafone to take proactive action to retain them.
+**Build a machine learning model that predicts whether a customer is likely to churn** enabling Vodafone to take proactive action to retain them.
 
 ## My Approach
 ### Exploratory Data Analysis (EDA):
@@ -48,14 +48,10 @@ This project delivers a functional prototype that Vodafone can use to:
 - Streamlit (App interface)
 - Git for version control
 ## Try It Out
- [Coming SOON](link)
+ [Coming SOON](#)
 ## Future Improvements
 - Integrate with Vodafone’s CRM for real-time predictions
 - A/B test retention strategies on model-flagged customers
 - Incorporate call-center interaction data for deeper insights  
 ## License
 IT License, free to use with attribution.
-
-
-
-
