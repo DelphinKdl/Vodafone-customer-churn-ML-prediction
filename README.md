@@ -1,5 +1,6 @@
 # Vodafone Customer Churn Prediction
 **Domain:** Telecom / Customer Retention
+
 **Project Type:** Classification, Business-Focused Machine Learning
 
 ## **Business Problem**
