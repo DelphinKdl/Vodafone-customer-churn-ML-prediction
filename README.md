@@ -48,7 +48,7 @@ This project delivers a functional prototype that Vodafone can use to:
 - Streamlit (App interface)
 - Git for version control
 ## Try It Out
- [Coming SOON](#)
+-  [Coming SOON](#)
 ## Future Improvements
 - Integrate with Vodafone’s CRM for real-time predictions
 - A/B test retention strategies on model-flagged customers
