@@ -1,0 +1,4 @@
+
+# Power BI: https://app.powerbi.com/groups/me/reports/a2dddb01-a9b4-4774-bae3-001043a7784d/ReportSection?experience=power-bi
+
+# Medium : https://medium.com/@delphin.kaduli/telco-customer-churn-prediction-using-machine-learning-8e90faee9e7c
