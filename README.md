@@ -48,7 +48,7 @@ The project provides Vodafone with a functional prototype to:
 - Matplotlib, Seaborn
 - Streamlit (App interface)
 - Git for version control
-## **Tools Used** 
+## **Try It Out** 
  [Coming SOON](LINK)
 ## **Future Improvements**
 - Integrate with Vodafone’s CRM for real-time predictions
