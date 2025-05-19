@@ -1,5 +1,3 @@
-
-# project dependencies 
 pyodbc  
 sqlalchemy
 python-dotenv 

@@ -5,11 +5,11 @@
 
 ## Business Problem
 
-### What problem did I solve?:
+### What problem did I solve?
 
 Telecom companies like Vodafone lose significant revenue due to customer churn, when customers leave for competitors. Each lost customer decreases lifetime value, raises acquisition costs, and weakens brand loyalty.
 
-### Why does it matter?:
+### Why does it matter?
 Retaining existing customers is far more cost-effective than acquiring new ones. Early churn prediction allows the business to take proactive actions (e.g., retention campaigns, personalized offers) to reduce revenue loss and improve satisfaction.
 
 ## Project Goal:
