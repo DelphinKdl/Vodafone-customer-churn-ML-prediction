@@ -51,6 +51,7 @@ This project delivers a functional prototype that Vodafone can use to:
  - Proactively target at-risk customers
  - Prioritize retention campaigns
  - Reduce churn-related revenue loss by enabling data-driven action.
+   
 **This isn’t just a model, it’s a deployable business tool.**
 ## Tools Used
 - Python, Pandas, NumPy
