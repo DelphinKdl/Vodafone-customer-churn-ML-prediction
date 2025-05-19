@@ -17,7 +17,7 @@ Retaining customers is far more cost-effective than acquiring new ones. Predicti
 
 ## My Approach
 ### Exploratory Data Analysis (EDA):
-   -  Identified correlations between churn and customer demographics, service subscriptions, and account status.
+   -  Identified churn trends across demographics, service types, and account behavior.
 ### Feature Engineering & Cleaning:
   - Converted categorical features into numerical formats
   - Handled class imbalance
@@ -31,18 +31,15 @@ Retaining customers is far more cost-effective than acquiring new ones. Predicti
   - Built (and will deploy) a Streamlit app for Vodafone staff to input customer data and get real-time churn predictions.
 
 ## Key Findings
- - Contract type, tenure, and monthly charges were among the top churn predictors.
- - Customers with month-to-month contracts and high charges were significantly more likely to churn.
- - Random Forest and XGBoost performed best with ROC-AUC > 0.82.
+ - **Contract type**, **tenure**, and **monthly charges** were the top churn predictors.
+ - Customers on **month-to-month contracts** with **high charges** had the highest churn risk.
+ - **Random Forest** and **XGBoost** achieved **ROC-AUC > 0.82**, delivering reliable predictive performance.
+
 ## Impact
-###  What changed because of my work?
-The project provides Vodafone with a functional prototype to:
-### What changed because of my work?
-The project provides Vodafone with a functional prototype to:
+This project delivers a functional prototype that Vodafone can use to:
  - Proactively target at-risk customers
  - Prioritize retention campaigns
  - Reduce churn-related revenue loss by enabling data-driven action.
-
 **This isn’t just a model, it’s a deployable business tool.**
 ## Tools Used
 - Python, Pandas, NumPy
@@ -55,8 +52,7 @@ The project provides Vodafone with a functional prototype to:
 ## Future Improvements
 - Integrate with Vodafone’s CRM for real-time predictions
 - A/B test retention strategies on model-flagged customers
-- Incorporate call-center interaction data for deeper insights
-  
+- Incorporate call-center interaction data for deeper insights  
 ## License
 IT License, free to use with attribution.
 
