@@ -137,7 +137,7 @@ A **(usually) daily trigger** pulls fresh customer data through the same ETL, Pr
 
 ```bash
 # Clone the repository
-git clone https://github.com/DelphinKdl/Churn-Prediction.git
+git clone https://github.com/DelphinKdl/Vodafone-customer-churn-ML-prediction.git
 cd Churn-Prediction
 
 # Create and activate virtual environment
