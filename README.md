@@ -6,7 +6,7 @@
 
 ## Executive Summary
 
-This **Customer Churn Prediction System** solves a critical business problem for telecom providers managing millions of subscribers. The system identifies customers at high risk of churning using behavioral, billing, and service subscription data — enabling targeted retention campaigns that reduce customer attrition and protect recurring revenue.
+This **Customer Churn Prediction System** solves a critical business problem for telecom providers managing millions of subscribers. The system identifies customers at high risk of churning using behavioral, billing, and service subscription data - enabling targeted retention campaigns that reduce customer attrition and protect recurring revenue.
 
 ## Business Problem Solved
 
@@ -20,7 +20,7 @@ Churn prediction systems identify users or customers likely to cancel a subscrip
 **Solution**: A batch ML system that scores every customer's churn probability, enabling:
 - **Proactive Retention Campaigns**: Personalized outreach to high-risk customers
 - **Contract & Pricing Optimization**: Data-driven incentives (e.g., long-term contract offers, bundled services)
-- **Operational Insights**: Identification of the strongest churn drivers — contract type, payment method, and service engagement
+- **Operational Insights**: Identification of the strongest churn drivers - contract type, payment method, and service engagement
 
 ### Typical Features in Production Churn Systems
 
@@ -54,10 +54,10 @@ The architecture implements a production-grade ML system with two main flows:
 ![ML System Design](images/Churn-prediction%20architecture.png)
 
 ### Data Sources
-- **CRM** (PostgreSQL) — customer profiles and account data
-- **Usage logs** (Snowflake, ClickHouse) — behavioral and session data
-- **Billing Data** (SaaS Platforms) — payment and subscription data
-- **Support tickets** (SaaS Platforms) — customer support interactions
+- **CRM** (PostgreSQL) - customer profiles and account data
+- **Usage logs** (Snowflake, ClickHouse) - behavioral and session data
+- **Billing Data** (SaaS Platforms) - payment and subscription data
+- **Support tickets** (SaaS Platforms) - customer support interactions
 
 ### Offline (Batch) Training
 Data from all sources flows through an **ETL Pipeline** into modular ML stages:
@@ -183,7 +183,7 @@ Churn-Prediction/
 
 ## Roadmap
 
-- [ ] **Interactive Power BI Dashboard** — Visual analytics layer for churn insights, customer segmentation, and retention KPIs
+- [ ] **Interactive Power BI Dashboard** - Visual analytics layer for churn insights, customer segmentation, and retention KPIs
 
 ---
 
